@@ -1,1 +1,3 @@
 # Merge-pdf-files-using-PyPDF2
+
+The Python code utilizes the PyPDF2 library to merge multiple PDF files found in the current directory into a single PDF document. Initially, a PdfWriter object named merger is instantiated. Then, the script retrieves a list of PDF files in the directory by filtering files with the ".pdf" extension using the os.listdir() function. Subsequently, it iterates over each PDF file in the list, appending its content to the merger object. After merging all PDFs, the script writes the combined content to a new PDF file named "merged.pdf" using the write() method. Finally, it closes the merger object to release associated resources. Overall, this code offers a straightforward approach to merging PDF files programmatically in Python.
