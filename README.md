@@ -18,17 +18,21 @@ This project requires Python 3.12.1 or later.
 To set up the project:
 1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Clone or download the repository to your local machine.
-      - git clone <https://github.com/jaiswalchitransh/Merge-pdf-files-using-PyPDF2>
+   
+            git clone <https://github.com/jaiswalchitransh/Merge-pdf-files-using-PyPDF2>
+
 4. Open the project in your preferred Python environment (e.g., IDE or terminal).
 5. Install PyPDF2 library using pip:
-      - pip install PyPDF2 
+   
+            pip install PyPDF2 
+
 6. Run the script (`merger.py`) and observe the output.
 
 
 ## Usage
 Ensure Python 3.x is installed. Run the script:
 
-- python merger.py
+            python merger.py
   
 After execution, a file named "merged.pdf" will be created in the same directory containing the merged PDF content.
 
