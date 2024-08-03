@@ -1,4 +1,4 @@
-# Merge-pdf-files-using-PyPDF2
+# Merge pdf files using PyPDF2
 
 ## Table of Contents
 - [Project Overview](#project-overview)
